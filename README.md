@@ -16,11 +16,21 @@
 [![PRs welcome](https://img.shields.io/badge/PRs-welcome-3da639)](./CONTRIBUTING.md)
 [![GitHub stars](https://img.shields.io/github/stars/xjli360/awesome-design-md-ecommerce?style=social)](https://github.com/xjli360/awesome-design-md-ecommerce/stargazers)
 
-[**Why**](#-why-this-exists) · [**See it**](#-see-it-in-action) · [**Quickstart**](#-quickstart) · [**The collection**](#-the-collection) · [**Full index →**](./INDEX.md) · [**Contribute**](./CONTRIBUTING.md)
+[**SeaLeap projects**](#sealeap-open-source-projects) · [**Why**](#-why-this-exists) · [**See it**](#-see-it-in-action) · [**Quickstart**](#-quickstart) · [**The collection**](#-the-collection) · [**Full index →**](./INDEX.md) · [**Contribute**](./CONTRIBUTING.md) · [**About SeaLeap**](#about-sealeap)
 
 </div>
 
 ---
+
+## SeaLeap open-source projects
+
+Explore the companion projects for Amazon operations, multi-platform commerce, and e-commerce interface design:
+
+| Project | What it helps you do |
+| --- | --- |
+| [sealeap-amazon-skills](https://github.com/xjli360/sealeap-amazon-skills) | Use Agent Skills for Amazon product research, listings, advertising, inventory, and operations. |
+| [sealeap-ecommerce-skills](https://github.com/xjli360/sealeap-ecommerce-skills) | Run product research, operations, and advertising workflows for Shopify, Etsy, eBay, TikTok Shop, Walmart, Mercado Libre, and OZON. |
+| [awesome-design-md-ecommerce](https://github.com/xjli360/awesome-design-md-ecommerce) (this repo) | Give AI agents e-commerce brand `DESIGN.md` references for storefronts, product pages, and branded interfaces. |
 
 ## 💡 Why this exists
 
@@ -180,4 +190,15 @@ PRs welcome — one brand per PR. Pick a genuinely DTC brand, add `design-md/<sl
 
 **If this helps your agent build better UI, leave a ⭐ — it genuinely helps.**
 
+</div>
+
+## About SeaLeap
+
+**SeaLeap aims to build the world's largest AI cross-border e-commerce community.** We bring together cross-border sellers, brand teams, operators, and AI developers to exchange practical experience in product research, advertising, content, data analysis, and operations automation.
+
+The community offers practical discussions, commerce news, and a Skill Hub where people and Agents turn experience into reusable Skills, tools, and workflows. SeaLeap maintains these three open-source projects. Join us to share your work, ask questions, and improve your next workflow with the community.
+
+<div align="center">
+  <p><strong>Shared knowledge. Open-source tools. Practical progress.</strong></p>
+  <p><a href="https://sealeap.cn">Visit SeaLeap · Join the community</a> · <a href="https://sealeap.cn/skills">Explore the Skill Hub</a></p>
 </div>
